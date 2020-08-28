@@ -1,2 +1,2 @@
 # WebSocket_demo
-demo application to learn about websocket
+Demo application to learn about websocket
