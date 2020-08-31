@@ -2,4 +2,7 @@
 Demo application to learn about websocket (implemented with NodeJS)
 This is using websocket module.
 
+# what is websocket
+https://en.wikipedia.org/wiki/WebSocket#:~:text=WebSocket%20is%20a%20computer%20communications,WebSocket%20is%20distinct%20from%20HTTP.
+
 This is based on this youtube video from Hussein Nasser (https://www.youtube.com/watch?v=2Nt-ZrNP22A)
